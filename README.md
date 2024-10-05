@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Souvik Roy!<br>🎓 Final year engineering student<br>🚀 Exploring job opportunities<br>📚 Currently learning DevOps<br>🤖 Proficient in Machine Learning<br>⚽ Football enthusiast<br>
+👋 Hi, I'm Souvik Roy!<br>🎓 2024 CSE Grad <br>🚀 Exploring job opportunities<br>📚 Currently learning DevOps<br>🤖 Proficient in Machine Learning<br>⚽ Football enthusiast<br>
 
 
 ## 🌐 Socials:
